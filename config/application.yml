@@ -1,3 +1,4 @@
 AWS_ACCESS_KEY: "AKIAZLO366C27VEDS4P3"
 AWS_SECRET_KEY: "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"
 AWS_BUCKET: "seestream-bucket-prl"
+AWS_REGION: "us-east-1"

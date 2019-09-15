@@ -86,3 +86,5 @@ gem 'carrierwave-aws'
 gem 'ranked-model'
 
 gem 'stripe'
+
+gem 'jquery-ui-rails'

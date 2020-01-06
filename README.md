@@ -3,6 +3,8 @@
 ## Application:<br>
 This application is located here: https://seestream-patricklyden.herokuapp.com
 
+![Home_Page](../Saved-Images/SeeStream_Home_Page.png)
+
 ## Purpose:<br>
 This project is a video streaming instructional platform.  Instructors are able to upload lessons in video and written format for others to subscribe to and learn from.  Instructors have the option to add a price for subscription to their lessons.  
 
